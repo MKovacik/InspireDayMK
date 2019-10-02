@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/78e65c53-4ee5-4e46-bbe1-cedf03919857/resourceGroups/InspireDayMK/providers/Microsoft.Web/sites/InspireDayMK",
+    "appService.deploySubpath": ""
+}
