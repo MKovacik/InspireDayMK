@@ -1,5 +1,5 @@
 {
-  "name": "InspireDay API",
+  "name": "InspireDayAPI",
   "version": "1.0.0",
   "description": "API crated for Inspire day purposes",
   "main": "app.js",
