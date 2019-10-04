@@ -1,7 +1,7 @@
 {
-  "name": "demonodeproject",
+  "name": "InspireDay API",
   "version": "1.0.0",
-  "description": "writing first node app",
+  "description": "API crated for Inspire day purposes",
   "main": "app.js",
   "dependencies": {
     "express": "^4.14.0"
