@@ -1,0 +1,34 @@
+{
+    "profiles": [
+      {
+        "firstname": "Michal",
+        "lastname": "KOVACIK",
+        "bio":
+          "10+ years of experience in Software development. Now I am leading team of software developers in T-Systems Slovakia, where is responsible for delivery and development of Internal applications. I am focusing on driving the change to modern architecture and delivery models.",
+        "tagline": "Head of Software development and design",
+        "twitter": "https://twitter.com/",
+        "imgSrc": "Michal Kovacik.JPG",
+        "id": "michalkovacik"
+      },
+      {
+        "firstname": "Jan",
+        "lastname": "PLAVKA",
+        "bio":
+          "Senior software developer in T-Systems Slovakia.",
+        "tagline": "Head of Software development and design",
+        "twitter": "https://twitter.com/",
+        "imgSrc": "Jan Plavka.JPG",
+        "id": "janplavka"
+      },
+      {
+        "firstname": "Miroslav",
+        "lastname": "VERCIMAK",
+        "bio":
+          "Senior software developer in T-Systems Slovakia.",
+        "tagline": "Head of Software development and design",
+        "twitter": "https://twitter.com/",
+        "imgSrc": "Miroslav Vercimak.JPG",
+        "id": "miroslavvercimak"
+      }
+    ]
+  }
